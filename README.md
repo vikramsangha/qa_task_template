@@ -61,19 +61,4 @@ string-normalizer-template/
 
 ---
 
-### ⚖️ Evaluation Criteria
 
-| Area | What We're Looking For |
-|------|------------------------|
-| Correctness | All tests pass |
-| Code clarity | Clean and readable |
-| Java fundamentals | Proper use of collections, null-safety |
-| Problem understanding | Interpreting test expectations |
-
----
-
-### 🧩 Bonus (Optional)
-If you finish early, discuss:
-- How to sort the output alphabetically?
-- Time complexity of your implementation?
-- Why a LinkedHashSet might be useful here?
